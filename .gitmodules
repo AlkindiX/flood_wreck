@@ -1,0 +1,3 @@
+[submodule "random-name"]
+	path = random-name
+	url = https://github.com/dominictarr/random-name.git
